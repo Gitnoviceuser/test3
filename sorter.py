@@ -11,4 +11,7 @@ def sorter(data):
    data.sort()
    return data
 data=get_input()
+C
+
+
 print(sorter(data))
